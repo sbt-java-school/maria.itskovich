@@ -1,4 +1,4 @@
-package ru.sbt.jmm;
+package ru.sbt.homeworks.jmm;
 
 public class MyException extends RuntimeException{
     public MyException() {

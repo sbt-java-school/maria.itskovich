@@ -1,4 +1,4 @@
-package ru.sbt.jmm.executionmanager;
+package ru.sbt.homeworks.jmm.executionmanager;
 
 public interface ExecutionManager {
 

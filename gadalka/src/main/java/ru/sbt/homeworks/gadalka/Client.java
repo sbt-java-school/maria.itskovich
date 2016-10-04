@@ -1,3 +1,5 @@
+package ru.sbt.homeworks.gadalka;
+
 import java.io.*;
 import java.net.Socket;
 import java.net.UnknownHostException;

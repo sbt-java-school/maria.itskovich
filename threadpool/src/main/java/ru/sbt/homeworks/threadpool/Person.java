@@ -1,4 +1,4 @@
-package ru.sbt.threadpool;
+package ru.sbt.homeworks.threadpool;
 
 public class Person {
     private String name;

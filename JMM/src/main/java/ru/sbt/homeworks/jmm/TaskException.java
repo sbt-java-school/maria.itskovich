@@ -1,4 +1,4 @@
-package ru.sbt.jmm;
+package ru.sbt.homeworks.jmm;
 
 import java.util.concurrent.Callable;
 /*

@@ -1,6 +1,10 @@
-package ru.sbt.jmm;
+package ru.sbt.homeworks.jmm;
 
 import org.junit.Test;
+import ru.sbt.homeworks.jmm.Expression;
+import ru.sbt.homeworks.jmm.MyException;
+import ru.sbt.homeworks.jmm.Task;
+import ru.sbt.homeworks.jmm.TaskException;
 
 public class TestTask {
     @Test

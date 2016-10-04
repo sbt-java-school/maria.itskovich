@@ -1,8 +1,8 @@
-package ru.sbt.threadpool;
+package ru.sbt.homeworks.threadpool;
 
 import org.junit.Test;
-import ru.sbt.threadpool.PersonCreator;
-import ru.sbt.threadpool.ThreadPool;
+import ru.sbt.homeworks.threadpool.PersonCreator;
+import ru.sbt.homeworks.threadpool.ThreadPool;
 
 import java.util.ArrayList;
 import java.util.List;

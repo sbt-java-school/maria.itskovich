@@ -1,4 +1,4 @@
-package ru.sbt.threadpool;
+package ru.sbt.homeworks.threadpool;
 
 public class PersonCreator implements Runnable {
     private int balance;

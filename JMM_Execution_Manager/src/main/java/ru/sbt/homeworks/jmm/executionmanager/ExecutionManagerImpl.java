@@ -1,4 +1,4 @@
-package ru.sbt.jmm.executionmanager;
+package ru.sbt.homeworks.jmm.executionmanager;
 
 import java.util.ArrayList;
 import java.util.List;

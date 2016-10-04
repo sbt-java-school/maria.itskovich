@@ -1,4 +1,4 @@
-package ru.sbt.threadpool;
+package ru.sbt.homeworks.threadpool;
 
 import java.util.LinkedList;
 import java.util.concurrent.RunnableFuture;
